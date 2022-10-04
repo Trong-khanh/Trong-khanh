@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Than Le Trong Khanh</h1>
 <h3 align="center">A passionate back-end developer from Vietnam</h3>
 
-<img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="450" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trong-khanh&label=Profile%20views&color=0e75b6&style=flat" alt="trong-khanh" /> </p>
