@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Than Le Trong Khanh</h1>
 <h3 align="center">I'm BackEnd Developer From Viet Nam</h3>
 
@@ -7,6 +6,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trong-khanh&label=Profile%20views&color=0e75b6&style=flat" alt="trong-khanh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trong-khanh" alt="trong-khanh" /></a> </p>
+
+- 🔭 I'm finished a project [library management](https://github.com/Trong-khanh/library-management)
+
+- 🌱 I’m currently learning **ASP.NET core,C#, Microservices**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Trong-khanh?tab=repositories](https://github.com/Trong-khanh?tab=repositories)
+
+- 💬 Ask me about **C# and ASP.NET and c#**
+
+- 📫 How to reach me **tltkhanh1501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trong-khanh&show_icons=true&locale=en" alt="trong-khanh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trong-khanh&" alt="trong-khanh" /></p>
+
+
 
